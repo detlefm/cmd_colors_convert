@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+; generated from mintty2reg
+; https://github.com/PhilipDaniels/mintty
+; License see LICENSE file
+"ColorTable08"=dword:000C0C0C
+"ColorTable00"=dword:000A0A0A
+"ColorTable12"=dword:008787D7
+"ColorTable04"=dword:008787DF
+"ColorTable10"=dword:0087D7AF
+"ColorTable02"=dword:0087DFAF
+"ColorTable15"=dword:00AFF7F7
+"ColorTable06"=dword:00AFFFFF
+"ColorTable09"=dword:00D7AF87
+"ColorTable01"=dword:00DFAF87
+"ColorTable13"=dword:00D7AFD7
+"ColorTable05"=dword:00DFAFDF
+"ColorTable11"=dword:00D7D7AF
+"ColorTable03"=dword:00DFDFAF
+"ColorTable07"=dword:00E6E6E6
+"ColorTable15"=dword:00EEEEEE
