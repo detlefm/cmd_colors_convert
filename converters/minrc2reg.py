@@ -1,7 +1,6 @@
 
 # coding: utf-8
 
-# In[13]:
 
 import sys
 import os
@@ -29,12 +28,7 @@ colornames ={
 } 
 
 
-
-
-#fname = 'mintty_color.txt'
-
-arg1 = 'mintty_color.txt'
-arg2 = 'test3.txt'
+arg1 = 'mintty_color.rc'
 
 try:
     __IPYTHON__
@@ -125,7 +119,3 @@ if __name__ == '__main__':
     else:
         compute_folder(arg1)
 
-
-# http://html-color-codes.info/ 
-# https://github.com/neilpa/cmd-colors-solarized https://github.com/cmderdev/cmder 
-# https://github.com/neilpa/cmd-colors-solarized http://html-color-codes.info/
